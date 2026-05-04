@@ -64,14 +64,15 @@
 }
 
 a {
-  color: #1772d0;
-  text-decoration: none;
+  color: rgb(20, 20, 19);
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 a:focus,
 a:hover {
   color: #f09228;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 body,
